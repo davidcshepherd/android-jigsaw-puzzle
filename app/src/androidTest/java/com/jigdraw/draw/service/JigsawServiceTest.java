@@ -18,4 +18,6 @@ package com.jigdraw.draw.service;
 
 public class JigsawServiceTest {
     private JigsawService service;
+    private JigsawService serwsasaavice;
+    
 }
