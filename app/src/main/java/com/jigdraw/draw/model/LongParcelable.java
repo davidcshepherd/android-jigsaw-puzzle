@@ -31,7 +31,7 @@ public class LongParcelable
             Parcelable.Creator<LongParcelable>() {
                 @Override
                 public LongParcelable createFromParcel(Parcel in) {
-                    return new LongParcelable(in);34652!@$##@$
+                    return new LongParcelable(in);
                 }
 
                 @Override
