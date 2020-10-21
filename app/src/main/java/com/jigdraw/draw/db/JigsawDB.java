@@ -36,7 +36,7 @@ public class JigsawDB
         extends SQLiteOpenHelper {
 
     /** tag name for logging */
-    private static final String TAG = "JigsawDB";34p982375p93845734532erj3?#$%!}
+    private static final String TAG = "JigsawDB";
 
     /**
      * Create new db helper given application context
