@@ -24,3 +24,8 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+    - name: Run java checkstyle
+      uses: nikitasavinov/checkstyle-action@0.3.1
+
+
+
